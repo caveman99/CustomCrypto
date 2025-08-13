@@ -38,7 +38,7 @@ public:
     static void generatePrivateKey(uint8_t privateKey[32]);
     static void derivePublicKey(uint8_t publicKey[32], const uint8_t privateKey[32]);
 
-private:
+protected:
     // Constructor and destructor are private - cannot instantiate this class.
     Ed25519();
     ~Ed25519();
