@@ -72,6 +72,7 @@ private:
     ~Curve25519() {}
 
     friend class Ed25519;
+    friend class XEdDSA;
 };
 
 #endif
