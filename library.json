@@ -26,14 +26,7 @@
     ],
     "srcFilter": [
       "+<*>",
-      "-<AESnRF52.cpp>",
-      "-<RNGnRF52.cpp>",
-      "-<RNGPico.cpp>",
-      "-<SHA256Pico.cpp>",
-      "-<AESSTM32.cpp>",
-      "-<RNGSTM32.cpp>",
-      "-<RNGLinux.cpp>",
-      "-<RNGEsp32.cpp>"
+      "-<test/>"
     ]
   },
   "export": {
