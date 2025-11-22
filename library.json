@@ -1,8 +1,8 @@
 {
   "name": "Crypto",
   "version": "1.1.0",
-  "description": "Cryptographic library with hardware acceleration support for ESP32 family, nRF52840, RP2040/RP2350, STM32WL55, and Linux (Raspberry Pi)",
-  "keywords": ["crypto", "encryption", "aes", "chacha", "sha256", "sha512", "curve25519", "ed25519", "hardware-acceleration", "nrf52840", "esp32", "esp32-s2", "esp32-s3", "esp32-c3", "esp32-c6", "esp32-c2", "rp2040", "rp2350", "pico", "stm32", "stm32wl55", "linux", "raspberry-pi", "portduino"],
+  "description": "Cryptographic library for ESP32 family, nRF52840, RP2040/RP2350, STM32WL55, and Linux (Raspberry Pi)",
+  "keywords": ["crypto", "encryption", "aes", "chacha", "sha256", "sha512", "curve25519", "ed25519", "nrf52840", "esp32", "esp32-s2", "esp32-s3", "esp32-c3", "esp32-c6", "esp32-c2", "rp2040", "rp2350", "pico", "stm32", "stm32wl55", "linux", "raspberry-pi", "portduino"],
   "repository": {
     "type": "git",
     "url": "https://github.com/meshtastic/Crypto.git"
